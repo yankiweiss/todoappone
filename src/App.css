@@ -1,0 +1,23 @@
+.section{
+  padding: 5rem 0;
+}
+
+.section-center{
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 35rem;
+  margin-top: 8rem;
+} 
+.section-center{
+  background-color: #fff;
+  border-radius: 0.25rem;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s linear;
+  padding: 2rem; 
+
+}
+
+.form{
+  display: flex;
+  justify-content: center;
+}
